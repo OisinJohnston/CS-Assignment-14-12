@@ -1,0 +1,12 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.basicinp {
+    border: solid;
+    border-color: blue;
+    border-width: 2px;
+    width: 125px;
+}
